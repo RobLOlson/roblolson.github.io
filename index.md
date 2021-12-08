@@ -4,4 +4,4 @@
 * [Newton's Method Fractal](https://roblolson.github.io/Newtons_Method/)
 * [Conway's Game of Life](https://roblolson.github.io/GameOfLife/)
 * [Prime Path](https://roblolson.github.io/PrimePath/)
-* [Ray Casting](https://roblolson.github.io/RayCasting/)
+* [Ray Casting](https://roblolson.github.io/raycasting/)
